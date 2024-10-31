@@ -33,7 +33,7 @@ def save(x):
 
 
 # main bot token
-token = '7461292247:AAEYqCZc9qZsQsHrool5YlUBvoMaYOrmUOE'
+token = ''
 bot = Bot(token=token)
 
 
